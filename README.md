@@ -35,4 +35,6 @@ Here are some ideas to get you started:
 
 
 
-[🚗 자동차 와이퍼 ](https://github.com/lhj8421/Project-CarWiper)
+[ 자동차 와이퍼 ](https://github.com/lhj8421/Project-CarWiper)
+[ 스마트 홈 ](https://github.com/lhj8421/Project-SmartHome)
+[ 선박 시야 개선 및 선원 위험 감지 ](https://github.com/lhj8421/Project-CTRL-SEA-CTRL-VISION)
