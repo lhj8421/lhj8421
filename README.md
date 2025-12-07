@@ -33,10 +33,13 @@ Here are some ideas to get you started:
 
 
 
-
-
-
-
 [ 🚗 자동차 와이퍼 ](https://github.com/lhj8421/Project-CarWiper)
+- 조이스틱과 물 수위센서를 사용하여 자동차의 와이퍼 기능을 구현한 프로젝트입니다.
+
+  
 [ 🏠 스마트 홈 ](https://github.com/lhj8421/Project-SmartHome)
+- AI가 예측한 습도값과 DHT11 온습도 센서가 측정한 값들을 WiFi 모듈과 Bluetooth 모듈의 통신으로 모듈들을 자동으로 동작시키는 프로젝트입니다.
+
+  
 [ 🚢 선박 시야 개선 및 선원 위험 감지 ](https://github.com/lhj8421/Project-CTRL-SEA-CTRL-VISION)
+- 실시간 카메라로 찍는 영상에서 안개를 제거하여 바다 위 장애물을 감지하고 갑판 위에 선원들의 위험을 감지하는 프로젝트입니다.
