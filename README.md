@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 
 
-##⚙️ My Project
+## ⚙️ My Project
 [ 🚗 자동차 와이퍼 ](https://github.com/lhj8421/Project-CarWiper)
 - 조이스틱과 물 수위센서를 사용하여 자동차의 와이퍼 기능을 구현한 프로젝트입니다.
 
