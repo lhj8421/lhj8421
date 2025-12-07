@@ -2,8 +2,7 @@
 
 ### 다양한 프로젝트를 통해 센서*카메라 기반 시스템, 실시간 데이터 처리, Edge AI 기반 시스템, Linux 기반 임베디드 환경을 개발해왔습니다.
 
-### 단순히 코드만 작성하는 것이 아닌
-### 마주한 문제 파악 → 시스템 구성 및 설계 → 구현 → 피드백 및 검증까지 이 과정을 맡을 수 있는 엔지니어가 되는 것을 목표로 하고 있습니다.
+### 단순히 코드만 작성하는 것이 아닌 마주한 문제 파악 → 시스템 구성 및 설계 → 구현 → 피드백 및 검증까지 이 과정을 맡을 수 있는 엔지니어가 되는 것을 목표로 하고 있습니다.
 
 ### 현장과 일상생활에서 사용할 수 있는 시스템 그리고 안정적으로 동작할 수 있는 시스템을 만들면서 계속 성장하는 엔지니어가 되는 것이 저의 포부입니다.
 
@@ -22,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📌 Languages
+## 📌 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -33,9 +32,7 @@ Here are some ideas to get you started:
 ![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)  
-
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)  
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)  
 
 
