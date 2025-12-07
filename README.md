@@ -1,4 +1,4 @@
-## 임베디드 개발자 이환중입니다. 👋
+# 임베디드 개발자 이환중입니다. 👋
 
 ### 다양한 프로젝트를 통해 센서*카메라 기반 시스템, 실시간 데이터 처리, Edge AI 기반 시스템, Linux 기반 임베디드 환경을 개발해왔습니다.
 
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 
 
-⚙️ My Project
+##⚙️ My Project
 [ 🚗 자동차 와이퍼 ](https://github.com/lhj8421/Project-CarWiper)
 - 조이스틱과 물 수위센서를 사용하여 자동차의 와이퍼 기능을 구현한 프로젝트입니다.
 
