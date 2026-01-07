@@ -49,3 +49,9 @@ Here are some ideas to get you started:
   
 [ 🚢 선박 시야 개선 및 선원 위험 감지 ](https://github.com/lhj8421/Project-CTRL-SEA-CTRL-VISION)
 - 실시간 카메라로 찍는 영상에서 안개를 제거하여 바다 위 장애물을 감지하고 갑판 위에 선원들의 위험을 감지하는 프로젝트입니다.
+
+[ 매크로 USB ](https://github.com/lhj8421/Project-Macro_USB)
+- 자작 커널 드라이버를 이용하여 STM에 저장된 명령어를 USB 모듈을 통해서 전송시킨 뒤 명령어를 실행시키는 프로젝트입니다.
+
+[ 로터리 타이머 ](https://github.com/lhj8421/Project-Rotary)
+- 로터리 인코더와 멀티 스래딩 기법을 사용해 4개의 커널 드라이버들을 조합해 시간 편집 기능을 OLED에서 진행하는 프로젝트입니다.
