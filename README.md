@@ -55,3 +55,5 @@ Here are some ideas to get you started:
 
 [ 로터리 타이머 ](https://github.com/lhj8421/Project-Rotary)
 - 로터리 인코더와 멀티 스래딩 기법을 사용해 4개의 커널 드라이버들을 조합해 시간 편집 기능을 OLED에서 진행하는 프로젝트입니다.
+
+[ RTOS 신디사이저 ](https://github.com/lhj8421/Project-SYNTH_RTOS_BLACKPILL)
